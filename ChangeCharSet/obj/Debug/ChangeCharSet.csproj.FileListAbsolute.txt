@@ -1,0 +1,8 @@
+D:\我写程序\ChangeCharSet\ChangeCharSet\bin\Debug\ChangeCharSet.exe
+D:\我写程序\ChangeCharSet\ChangeCharSet\bin\Debug\ChangeCharSet.pdb
+D:\我写程序\ChangeCharSet\ChangeCharSet\obj\Debug\ResolveAssemblyReference.cache
+D:\我写程序\ChangeCharSet\ChangeCharSet\obj\Debug\ChangeCharSet.Form1.resources
+D:\我写程序\ChangeCharSet\ChangeCharSet\obj\Debug\ChangeCharSet.Properties.Resources.resources
+D:\我写程序\ChangeCharSet\ChangeCharSet\obj\Debug\ChangeCharSet.csproj.GenerateResource.Cache
+D:\我写程序\ChangeCharSet\ChangeCharSet\obj\Debug\ChangeCharSet.exe
+D:\我写程序\ChangeCharSet\ChangeCharSet\obj\Debug\ChangeCharSet.pdb
