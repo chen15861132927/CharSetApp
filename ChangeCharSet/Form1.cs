@@ -7,7 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
-
+/// <summary>
+/// 检测字符编码的类
+/// <seealso cref="System.IO.Stream"/>
+/// <seealso cref="System.Uri"/>
+/// <seealso cref="System.IO.FileInfo"/>
+/// </summary>
+/// <remarks>
+/// <![CDATA[
+/// <strong>FileEncoder</strong> 用来检测 <see cref="Uri"/>,<see cref="System.IO.FileInfo"/>,<see cref="sbyte"/> 字节数组的编码．
+/// Create By chen wei  <br/>
+/// 2013-02-16 22:00  <br/>
+/// Support .Net Framework v1.1.4322 <br/> 
+/// WebSite：www.lionsky.net(lion-a AT sohu.com) <br/> 
+/// ]]>
+/// </remarks>
 namespace ChangeCharSet
 {
     public partial class Form1 : Form

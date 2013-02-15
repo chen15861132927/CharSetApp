@@ -14,8 +14,8 @@ namespace ChangeCharSet
     /// <remarks>
     /// <![CDATA[
     /// <strong>FileEncoder</strong> 用来检测 <see cref="Uri"/>,<see cref="System.IO.FileInfo"/>,<see cref="sbyte"/> 字节数组的编码．
-    /// Create By lion  <br/>
-    /// 2005-02-21 22:00  <br/>
+    /// Create By chen wei  <br/>
+    /// 2013-02-16 22:00  <br/>
     /// Support .Net Framework v1.1.4322 <br/> 
     /// WebSite：www.lionsky.net(lion-a AT sohu.com) <br/> 
     /// ]]>
